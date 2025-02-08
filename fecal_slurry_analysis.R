@@ -216,6 +216,3 @@ for (taxon in unique(df2$Genus)) {
   print(plot)
   dev.off()
 }
-
-setwd("~/debaleena/collabs/SRC_fecal_slurry/")
-
